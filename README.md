@@ -1,30 +1,22 @@
 # 🌸 Shrabana Nandi
 
-**Aspiring Data Analyst | Python & SQL Learner | Passionate About Insights, Growth & Healing**
+**Aspiring Data Analyst | Python | SQL | R | Passionate About Insights, Growth & Healing**
 
 Hi there! 👋 I'm Shrabana, a curious learner, a career realigning professional, and a human being who believes in slow, meaningful growth. I come from a background in Electronics & Communication Engineering and began my IT career at Accenture. After taking a career break to realign my goals and invest in myself, I’m now on a purposeful journey into the world of **data analytics** — one project, one course, one insight at a time.
 
 ---
 
-## 🌱 What I’m Currently Learning
+## 🌱 My certifications
 
 - 📊 **Google Data Analytics Professional Certificate** (Coursera)
 - 🐍 **Python for Everybody Specialization** – University of Michigan
-- 📚 Strengthening my concepts in **SQL**, **Statistics & Probability**, and **Analytical Thinking**
-
----
-
-## 📂 Projects & Learning Logs
-
-Here’s how I’m keeping track of my progress and projects:
-
+- 📚 **SQL for Data Science** - UC Davis
 
 
 ---
 
 ## 🧭 My Next Goals
 
-- Build my first **Portfolio Project** using real-world datasets 🗃️  
 - Learn the **IBM Data Analyst Professional Certificate** for a smooth transition to Data Science  
 - Explore how analytics applies across different domains like **Accounting**, **Sales**, **Marketing**, and more 🌍  
 - Land my first **Data Analyst Opportunity** and grow into data science 💡
